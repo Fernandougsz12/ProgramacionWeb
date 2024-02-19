@@ -1,0 +1,43 @@
+<Estudiante>
+    <Nombre>Fernando</Nombre>
+    <Edad>20</Edad>
+    <Materias>
+        <Materia>Taller de Investigación</Materia>
+        <Materia>Redes de Computadoras</Materia>
+        <Materia>Programación Web</Materia>
+        <Materia>Desarrollo de Emprendedores</Materia>
+        <Materia>Sistemas Operativos I</Materia>
+        <Materia>Tecnologías Inalámbricas</Materia>
+        <Materia>Inglés</Materia>
+    </Materias>
+    <NumeroDeCelular>4651222727</NumeroDeCelular>
+    <SeriesFavoritas>
+        <Serie>Breaking Bad</Serie>
+        <Serie>The Walking Dead</Serie>
+        <Serie>Stranger Things</Serie>
+        <Serie>The Mandalorian</Serie>
+        <Serie>The Crown</Serie>
+    </SeriesFavoritas>
+    <ArtistasFavoritosYCanciones>
+        <Artista>
+            <Nombre>Jose Jose</Nombre>
+            <Cancion>Lo Dudo</Cancion>
+        </Artista>
+        <Artista>
+            <Nombre>Ariel Camacho</Nombre>
+            <Cancion>Hablemos</Cancion>
+        </Artista>
+        <Artista>
+            <Nombre>Griss Romero</Nombre>
+            <Cancion>Mi Razon de Ser</Cancion>
+        </Artista>
+        <Artista>
+            <Nombre>Santaflow</Nombre>
+            <Cancion>Sin Miedo a Caer</Cancion>
+        </Artista>
+        <Artista>
+            <Nombre>Sebastian Yatra</Nombre>
+            <Cancion>Robarte un Beso</Cancion>
+        </Artista>
+    </ArtistasFavoritosYCanciones>
+</Estudiante>

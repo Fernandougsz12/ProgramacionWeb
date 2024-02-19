@@ -1,0 +1,28 @@
+{
+  "Nombre": "Fernando",
+  "Edad": 20,
+  "Materias que están tomando": [
+      "Taller de Investigación",
+      "Redes de Computadoras",
+      "Programación Web",
+      "Desarrollo de Emprendedores",
+      "Sistemas Operativos I",
+      "Tecnologías Inalámbricas",
+      "Inglés"
+  ],
+  "Numero de celular": "4651222727",
+  "5 series favoritas": {
+      "1": "Breaking Bad",
+      "2": "The Walking Dead",
+      "3": "Stranger Things",
+      "4": "The Mandalorian",
+      "5": "The Crown"
+  },
+  "5 artistas favoritos y la canción que más le guste": {
+      "1": {"Artista": "Jose Jose", "Cancion": "Lo Dudo"},
+      "2": {"Artista": "Ariel Camacho", "Cancion": "Hablemos"},
+      "3": {"Artista": "Griss Romero", "Cancion": "Mi Razon de Ser"},
+      "4": {"Artista": "Santaflow", "Cancion": "Sin Miedo a Caer"},
+      "5": {"Artista": "Sebastian Yatra", "Cancion": "Robarte un Beso"}
+  }
+}
